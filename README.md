@@ -1,4 +1,4 @@
-<h1 align="center">Hi there I'm Dika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+<h1 align="center">Hi there I'm Mikel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=DikaArdnt&color=brightgreen&style=plastic&label=%F0%9F%91%80+Profile+Views">
 </p>
@@ -21,16 +21,15 @@
 ```csharp
 My Profile
 -------------------------------
-Username: Dika Ardnt.
+Username: Mikelz27.
 WhoamI: Normal People.
-Telegram: @cak_haho.
-FavouriteAnime: オーバーロード (Overlord).
-Loves: タツマキ (Tatsumaki) (❤️ ω ❤️), Anime 🎮, Manga 🎹.
+Instagram: @mikel27._
+FavouriteAnime: Tonikaku Kawai (Fly Me to the moon).
+Loves: Frieeninda (❤️ ω ❤️), Anime 🎮, Manga 🎹.
 Pronouns: He-Him.
-Location: Planet Kepler-452b.
-Hobbyes: Watching Anime and Read Manga.
-FavouriteSong: Official髭男dism - Pretender.
-Hobbies: Watching anime, Read Manga 
+Location: Planet Jupiter.
+Hobbyes: Watching Anime And Game.
+FavouriteSong: Sewates Konco.
 while I am listening music.
 
 ```
