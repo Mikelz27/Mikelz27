@@ -80,7 +80,7 @@ while I am listening music.
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Mikelz27&count_private=true&theme=radical&show_icons=true&hide_border=false"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DikaArdnt&theme=radical&hide_border=false&date_format=%5BY%20%5DM%20j"/>
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Mikelz27&theme=radical&hide_border=false&date_format=%5BY%20%5DM%20j"/>
     </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Mikelz27&theme=juicyfresh&row=4&column=4"/>
