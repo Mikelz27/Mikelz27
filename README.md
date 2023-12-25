@@ -77,17 +77,17 @@ while I am listening music.
 <div> 
 <p align = "center">
     <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=DikaArdnt&count_private=true&theme=radical&show_icons=true&hide_border=false"/>
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Mikelz27&count_private=true&theme=radical&show_icons=true&hide_border=false"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DikaArdnt&theme=radical&hide_border=false&date_format=%5BY%20%5DM%20j"/>
     </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=DikaArdnt&theme=juicyfresh&row=4&column=4"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikaArdnt&hide_border=false&theme=radical&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "41%" />
+        <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Mikelz27&theme=juicyfresh&row=4&column=4"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikelz27&hide_border=false&theme=radical&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "41%" />
     </a>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img width="120%" alt="Stats" src="https://github-readme-activity-graph.cyclic.app/graph?username=DikaArdnt&theme=redical"/>
+        <img width="120%" alt="Stats" src="https://github-readme-activity-graph.cyclic.app/graph?username=Mikelz27&theme=redical"/>
     </a>
 </p>
 </div>
@@ -101,7 +101,7 @@ while I am listening music.
 <h2 align ="center"> 📝 Contact me 📝</h2>
 <br> 
 <div align="center">
-<a href="https://github.com/DikaArdnt" target="_blank">
+<a href="https://github.com/Mikelz27" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/Cakhaho" target="_blank">
