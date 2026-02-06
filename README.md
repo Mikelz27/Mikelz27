@@ -10,10 +10,13 @@
 </div>
 <br>
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
+    
 ```zsh
 > profile
 ```
+    
 <img align="left" src="img/hisokamorou.png" width="130px"/> 
+
 ```csharp
 My Profile
 -------------------------------
@@ -29,6 +32,7 @@ FavouriteSong: Sewates Konco.
 while I am listening music.
 
 ```
+
 <div>
 <br>
 
