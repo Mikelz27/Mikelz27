@@ -15,7 +15,7 @@
 > profile
 ```
     
-<img align="left" src="img/hisokamorou.png" width="130px"/> 
+<img align="left" src="https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2024/01/new-jujutsu-kaisen-theory-strongly-suggests-gojo-satoru-s-return.jpg?q=50&fit=crop&w=1600&h=900&dpr=1.5" width="130px"/> 
 
 ```csharp
 My Profile
@@ -24,11 +24,11 @@ Username: Mikelz27.
 WhoamI: Normal People.
 Instagram: @mikel27._
 FavouriteAnime: Tonikaku Kawai (Fly Me to the moon).
-Loves: Frieeninda (❤️ ω ❤️), Anime 🎮, Manga 🎹.
+Loves: Whooo?.. (❤️ ω ❤️), Anime 🎮, Manga 🎹.
 Pronouns: He-Him.
-Location: Planet Jupiter.
+Location: Planet Nibiru.
 Hobbyes: Watching Anime And Game.
-FavouriteSong: Sewates Konco.
+FavouriteSong: Sewates Konco★.
 while I am listening music.
 
 ```
