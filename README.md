@@ -9,15 +9,11 @@
 <img src="https://media.tenor.com/WawsnI5b3e4AAAAC/hisoka-hunter-x-hunter.gif" width="300px">
 </div>
 <br>
-
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
-
 ```zsh
 > profile
 ```
-
 <img align="left" src="img/hisokamorou.png" width="130px"/> 
-
 ```csharp
 My Profile
 -------------------------------
@@ -33,12 +29,7 @@ FavouriteSong: Sewates Konco.
 while I am listening music.
 
 ```
-
-
 <div>
-<br>
-<br>
-<br>
 <br>
 
 <p align="right"><a href = "https://www.youtube.com/watch?v=TQ8WlA2GXbk"><img src = "https://i.ytimg.com/vi/TQ8WlA2GXbk/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>Official髭男dism - Pretender</b></p>
@@ -68,14 +59,7 @@ while I am listening music.
 </div>
 <br>
 <br>
-
 <br>
-<br>
-
-
-
-<br>
-
 <h2 align ="center"> 📝 Contact me 📝</h2>
 <br> 
 <div align="center">
