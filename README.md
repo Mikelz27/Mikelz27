@@ -1,9 +1,15 @@
 <h1 align="center">Hi there I'm Mikel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+
+<body>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Mikelz27&color=brightgreen&style=plastic&label=%F0%9F%91%80+Profile+Views">
 </p>
-
-<body>
+<a href="https://top.gg/bot/898915145999351809">
+  <img src="https://top.gg/api/widget/upvotes/898915145999351809.svg">
+</a>
+<a href="https://top.gg/bot/898915145999351809">
+<img src="https://top.gg/api/widget/servers/898915145999351809.svg">
+</a>
 <br>
 <div align="center">
 <img src="https://media1.tenor.com/m/N6Wb7D9MEacAAAAC/tsukasa-yuzaki.gif" width="300px">
