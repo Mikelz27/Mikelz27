@@ -32,22 +32,6 @@ FavouriteSong: Sewates Konco★.
 while I am listening music.
 
 ```
-
-<div>
-<br>
-
-<p align="right"><a href = "https://www.youtube.com/watch?v=TQ8WlA2GXbk"><img src = "https://i.ytimg.com/vi/TQ8WlA2GXbk/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>Official髭男dism - Pretender</b></p>
-<br>
-<br>
-
-<p align="left"><a href = "https://www.youtube.com/watch?v=yO8nx8-SLYE"><img  src ="https://i.ytimg.com/vi/yO8nx8-SLYE/maxresdefault.jpg" width="170" align="right"></a><b><br><br>「Baton Road / バトンロード」 MV Rip off</b></p>
-
-<br>
-<br>
-
-<p align="right"><a href="https://www.youtube.com/watch?v=IfMqM-AtnQk"><img src="https://i.ytimg.com/vi/IfMqM-AtnQk/hqdefault.jpg" width="170" align="left"></a><b><br>Yuika - Sukidakara 好きだから ft. Ren</b></p>
-<br>
-</div>
 <br>
 
 <div>
